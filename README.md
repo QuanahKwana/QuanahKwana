@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @QuanahKwana
-- 👀 I’m interested in computer science and animation
-- 🌱 I’m currently learning python cause I'm a dumb n00b
-- 💞️ I’m looking to collaborate on anything really. I'm kinda new.
-- 📫 How to reach me best reach me via email (I'm trying to read email more)
+Hey guys, I'm just a normal guy trying to learn to code. If y'all want to help me learn or help fix my personal projects, I would learn so much and appreciate you.
+❤ I love Beastars, I sorta like anime in general. Wow, very unique, huh?
 
-<!---
-QuanahKwana/QuanahKwana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I plan to change the world one way or another.
+Hopefully
